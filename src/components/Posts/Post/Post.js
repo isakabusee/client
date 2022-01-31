@@ -1,4 +1,7 @@
 import React from 'react'
+import { Card, CardActions, CardContent, CardMedia, Button, Typography } from '@material-ui/core';
+// import ThumbUpIcon from '@mui/icons-material/ThumbUp';
+import ThumbUpAltIcon from '@material-ui/core'
 
 import useStyles from './styles';
 
